@@ -28,6 +28,13 @@ A Thought (feat. Stan Sulzmann)
 width="300" height="380" frameborder="0" allowtransparency="true"
 allow="encrypted-media"></iframe>
 
+1994 session with Concord Nkabinde and Bhisham Bridglall
+--------------------------------------------------------
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/videoseries?list=PL5wNtKiJKKjRBw2dTi9YXVxtw1U9NKcyd"
+frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
+picture-in-picture" allowfullscreen></iframe>
+
 Mosaic - Child's Play
 ---------------------
 <iframe width="560" height="315"
