@@ -11,6 +11,23 @@ Shakespeare Suite
 -----------------
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL5wNtKiJKKjRqWk1o-Kg3HZs1y-DIMcwd" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Piano Passions Project
+----------------------
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL5wNtKiJKKjSzylEahBNSKLSmOk1EiwNs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+eThekwini Dance Suite 
+---------------------
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL5wNtKiJKKjSgawiu598bpjhlox91TwtO" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Chris Thorpe Masters Recital
+----------------------------
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL5wNtKiJKKjR0qrgmZemRiUQwC7LChjQw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+eThekwini Dance Suite (video)
+-----------------------------
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL5wNtKiJKKjSkibggjnkSHBb9YHlW2TtK" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 One for Vee Suite
 -----------------
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL5wNtKiJKKjR83knRKkviSH5ht9ZsSFRl" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
