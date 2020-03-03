@@ -31,3 +31,4 @@ performers (and, to a lesser extent, audience members) are mediated by their pla
 larger social groupings defined by 'race' and place. I have edited a number of
 academic journals and supervised many postgraduate research projects.
 
+[Current CV](../pdf/ramanna_cv_2020-03.pdf)
