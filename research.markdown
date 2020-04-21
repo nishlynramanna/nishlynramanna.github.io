@@ -22,7 +22,7 @@ apartheid and post-apartheid South African jazz culture and South African societ
 
 In my Masters/PhD research, I examined
 how the music of three post-apartheid South African jazz groups, including my own,
-sonically referenced its makers' and listeners' individual and wider social identities. 
+sonically referenced its makers' and listeners' individual and wider social identities. [Please click here to view my PhD dissertation.](../pdf/ramanna_2005_dissertation.pdf)
 
 
 Academic editing and peer review

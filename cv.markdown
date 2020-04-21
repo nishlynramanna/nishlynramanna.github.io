@@ -8,3 +8,6 @@ permalink: /cv/
 
 [Please click here to view my teaching
 portfolio.](../pdf/ramanna_teaching_portfolio.pdf)
+
+[Please click here to view my PhD
+dissertation.](../pdf/ramanna_2005_dissertation.pdf)
