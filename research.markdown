@@ -70,6 +70,9 @@ Bibliography
     of the International Association
     for the Study of Popular Music,
     Rhodes University, 217-222
+*	2005\. Jazz as discourse: A contextualised account of contemporary jazz
+	in post-apartheid Durban and Johannesburg. PhD dissertation, University
+	of KwaZulu-Natal.
 *     2005\. Biography, taste, and
 	  identity construction in the
 	  production and reception of
